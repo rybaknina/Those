@@ -21,5 +21,6 @@ public class Accumul {
         System.out.println(accum("MjtkuBovqrU"));
         System.out.println(accum("EvidjUnokmM"));
         System.out.println(accum("HbideVbxncC"));
+        System.out.println(accum("JbideVbxncC"));
     }
 }
